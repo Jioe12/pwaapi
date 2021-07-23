@@ -1,0 +1,26 @@
+{
+"products :"[
+
+{"id":1,"full_name":"Miguel Butterfill","gender":"Non-binary","category":"Purple"},
+{"id":2,"full_name":"Rolando Hadigate","gender":"Bigender","category":"Blue"},
+{"id":3,"full_name":"Meredith Duce","gender":"Genderfluid","category":"Orange"},
+{"id":4,"full_name":"Marieann Finlow","gender":"Bigender","category":"Puce"},
+{"id":5,"full_name":"Bernice Lindroos","gender":"Non-binary","category":"Puce"},
+{"id":6,"full_name":"Dorthea De Stoop","gender":"Genderfluid","category":"Blue"},
+{"id":7,"full_name":"Michal Furmenger","gender":"Polygender","category":"Maroon"},
+{"id":8,"full_name":"Corbet Pledge","gender":"Non-binary","category":"Crimson"},
+{"id":9,"full_name":"Wayland Stonier","gender":"Male","category":"Khaki"},
+{"id":10,"full_name":"Nerte Piggrem","gender":"Male","category":"Turquoise"},
+{"id":11,"full_name":"Ad Hardcastle","gender":"Genderfluid","category":"Purple"},
+{"id":12,"full_name":"Cindee McLarty","gender":"Genderfluid","category":"Mauv"},
+{"id":13,"full_name":"Gina Lemmer","gender":"Male","category":"Maroon"},
+{"id":14,"full_name":"Jammal Rushby","gender":"Female","category":"Aquamarine"},
+{"id":15,"full_name":"Jemie Toland","gender":"Male","category":"Maroon"},
+{"id":16,"full_name":"Imogene Weyman","gender":"Agender","category":"Khaki"},
+{"id":17,"full_name":"Giana Staining","gender":"Non-binary","category":"Crimson"},
+{"id":18,"full_name":"Madeleine Flips","gender":"Polygender","category":"Yellow"},
+{"id":19,"full_name":"Arleen Blenkinship","gender":"Female","category":"Purple"},
+{"id":20,"full_name":"Nilson Foggo","gender":"Genderfluid","category":"Turquoise"}
+
+]
+}
